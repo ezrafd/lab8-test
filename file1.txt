@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 STEP 1:  created by Ezra Ford on 11/04/21 at 12:18
 STEP 4:  line added by Stanley Su on 11/04/22 at 12:42
+=======
+STEP 1:  created by Ezra Ford on 11/04/22 at 12:18
+STEP 3:  added by Stanley Su on 11/04/22 at 12:36
+>>>>>>> 13436dcf3217ed60c5ca4dc7dd1abdde8c848f97
